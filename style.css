@@ -1,0 +1,44 @@
+body{
+  background-image: url("assets/images/dubai\ image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+.header{
+    text-align: center;
+    color: black;
+    display: inline-block;
+    font-size: 15px;
+    padding-left: 400px;
+    margin:0px;
+    width: -40px;
+    color:gold;
+                                                                                                   
+}
+.color{
+    color: white;
+    font-size: 16px;
+    
+}
+.buttons{
+    text-align: center;
+    font-size: 20px;
+    color: bisque;
+}
+.buttons button:hover {
+    background-color: #c18f1b;
+}
+.change {
+    font-size: 20px;
+    
+}
+.change:hover {
+    background-color: #c18f1b;
+}
+.footer{
+    text-align: center;
+    font-size: 20px;
+    color: bisque;
+}
+
