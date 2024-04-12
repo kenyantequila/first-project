@@ -18,6 +18,7 @@
             
             if (button.innerText === "Shop-now") {
                 alert("Visit our online store to explore a wide range of products!");
+                alert("dont miss the chance");
             } else if (button.innerText === "Make order") {
                 alert("Place your order now to enjoy fast and reliable service!");
             } else if (button.innerText === "Deliveries") {
