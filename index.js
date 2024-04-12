@@ -46,6 +46,3 @@ function handleSearchInput() {
     searchGoods(searchInput);
 }
 
-document.getElementById('searchInput').addEventListener('input', handleSearchInput);
-
-initialize();
