@@ -39,10 +39,3 @@ function fetchGoods() {
 function initialize() {
     fetchGoods();
 }
-
-initialize();
-function handleSearchInput() {
-    const searchInput = document.getElementById('searchInput').value;
-    searchGoods(searchInput);
-}
-
