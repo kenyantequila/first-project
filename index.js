@@ -21,8 +21,10 @@ function displayGood(good) {
             <img src="${good.image}" width = "350px">
             <h4>${good.name}</h4>
             <p>${good.description}</p>
-            <p>id-number:${good.idnumber}</p>
             <p>${good.price}</p>
+            <p>sales-person:${good.merchant}</p>
+            <p>id-number:${good.idnumber}</p>
+            
         `;
     document.getElementById('myshop').appendChild(listItem);
 }

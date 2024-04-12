@@ -16,49 +16,37 @@
             "merchant" : "Steven",
             "idnumber" : "39498940"
         },   
-
-        
         {    "id":"3",
             "name": "clothes",
             "price" : "varies according to the type of wear a customer chooses",
             "description": "we deal with clothes that originate from the LC WAIKIKI company",
-          
             "image": "https://img-lcwaikiki.mncdn.com/mnresize/400/-/pim/productimages/20232/6478130/v2/l_20232-w32406z8-rdv-100-82-97-187_a1.jpg",
             "merchant" : "Lydya",
             "idnumber" : "42378758"
         },   
-        
-    
-    
          {
             "id":"4",
             "name":"Toys",
             "price ":"Depends on type",
             "description": "Kids playing toys",
-          
-            "image": "https://www.amazon.com/Heroes-Goo-Jit-Zu-Marvel/dp/B09CWP2G71/ref=sr_1_9?adgrpid=81952170632&dib=eyJ2IjoiMSJ9.aTFJQ22fsNc1ly7jH-EIwuNjvS41vr6zlBNtR8xMo26DITCLgT8CyxQO9EgxHPusgIrLWQcxrLVF1UST-Y7mTdBeqqNAxtCEX1k02MMgMFOhvRKzfW_ZH2DUFapll_d9MfktUYU-ciKE_JhcQEDRz4TmQvkzBkPu7ov3ntRkY7PWjYlGi7DUhPOkrLWKEZvzHHYlc9cl6TJ2Bxkq_XoGfNU_83gr9p4c0Cz69jraBvn-JvZRyItfkCcUEqTn-Gogt_lZBopvrt6iOdq7XjydUffGfuotNlR17E0nQFCYjm4.PqNsOuZxkSEqHP9x4OOYw9HVKmM0muNrpyGCS4XRsrU&dib_tag=se&hvadid=585412561198&hvdev=c&hvlocphy=1009824&hvnetw=g&hvqmt=b&hvrand=4695191010161264142&hvtargid=kwd-11028486&hydadcr=22333_13333064&keywords=little+toys&qid=1712739323&sr=8-9",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-282140,resizemode-75,msid-88403805/news/how-to/why-kids-should-not-have-lots-of-toys-and-what-to-do-if-yours-have-too-many.jpg",
             "merchant" : "Mary",
             "idnumber" : "567487738"
         },   
-        
         {
             "id":"5",
             "name": "Grocery",
             "price" : "varies according to the type a customer chooses",
             "description": "we deal with groceries that originate from the grocery store",
-           
-            "image": "https://www.jumia.co.ke/khaki-grocery-packing-paper-bags-generic-mpg254447.html",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-mowrwFHd7Az385r11Rr_qOC_AiCckyM8XZAw-QVNfw&s",
             "merchant" : "Sharon",
             "idnumber" : "623747637"
         },   
-        
-
         {
                 "id": "6",
                 "name": "Diamond Necklace",
                 "price": 150000,
                 "description": "An exquisite diamond necklace featuring flawless diamonds set in 18k white gold.",
-               
                 "image": "https://vijayandsons.com/cdn/shop/products/IMG-20220416-WA0060.jpg?v=1650269748",
                 "merchant" : "Julias",
                 "idnumber" : "5675676567"
