@@ -53,7 +53,16 @@
         },   
         
 
-       
+        {
+                "id": "6",
+                "name": "Diamond Necklace",
+                "price": 150000,
+                "description": "An exquisite diamond necklace featuring flawless diamonds set in 18k white gold.",
+               
+                "image": "https://vijayandsons.com/cdn/shop/products/IMG-20220416-WA0060.jpg?v=1650269748",
+                "merchant" : "Julias",
+                "idnumber" : "5675676567"
+            } 
             
         
        
