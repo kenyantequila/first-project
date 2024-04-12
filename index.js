@@ -39,3 +39,14 @@ function fetchGoods() {
 function initialize() {
     fetchGoods();
 }
+
+// initialize();
+// function handleSearchInput() {
+//     const searchInput = document.getElementById('searchInput').value;
+//     searchGoods(searchInput);
+// }
+
+// document.getElementById('searchInput').addEventListener('input', handleSearchInput);
+
+// // Initialize the webpage
+// initialize()
