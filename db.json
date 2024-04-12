@@ -34,6 +34,19 @@
             "price" : "varies according to the type a customer chooses",
             "description": "we deal with groceries that originate from the grocery store",
             "image": "https://www.jumia.co.ke/khaki-grocery-packing-paper-bags-generic-mpg254447.html"
+        },
+
+        {
+                "id": "6",
+                "name": "Diamond Necklace",
+                "price": 150000,
+                "description": "An exquisite diamond necklace featuring flawless diamonds set in 18k white gold.",
+                "image": "https://vijayandsons.com/cdn/shop/products/IMG-20220416-WA0060.jpg?v=1650269748"
+            
+        },
+       
+        {
+            
         }
 
         
