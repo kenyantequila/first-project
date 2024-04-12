@@ -4,12 +4,14 @@
             "name" : "macbook Laptop",
             "price" : 215000,
             "description" : "macbook Air",
+            "idnumber" : "42378758",
             "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfmLWIhHriz3jtRRo4Lc9PAd1SjRoFYfOg6LIJ_QYMg&s"
         },   
         {    "id":"2",
             "name": "samsung tv",
             "price": 103000,
             "description": "a 65-inch samsung tv",
+            "idnumber" : "42378758",
             "image": "https://brimax.co.ke/wp-content/uploads/2024/03/65CU7000-.jpg"
 
         },
@@ -17,6 +19,7 @@
             "name": "clothes",
             "price" : "varies according to the type of wear a customer chooses",
             "description": "we deal with clothes that originate from the LC WAIKIKI company",
+            "idnumber" : "42378758",
             "image": "https://img-lcwaikiki.mncdn.com/mnresize/400/-/pim/productimages/20232/6478130/v2/l_20232-w32406z8-rdv-100-82-97-187_a1.jpg"
         },
     
@@ -26,6 +29,7 @@
             "name":"Toys",
             "price ":"Depends on type",
             "description": "Kids playing toys",
+            "idnumber" : "42378758",
             "image": "https://www.amazon.com/Heroes-Goo-Jit-Zu-Marvel/dp/B09CWP2G71/ref=sr_1_9?adgrpid=81952170632&dib=eyJ2IjoiMSJ9.aTFJQ22fsNc1ly7jH-EIwuNjvS41vr6zlBNtR8xMo26DITCLgT8CyxQO9EgxHPusgIrLWQcxrLVF1UST-Y7mTdBeqqNAxtCEX1k02MMgMFOhvRKzfW_ZH2DUFapll_d9MfktUYU-ciKE_JhcQEDRz4TmQvkzBkPu7ov3ntRkY7PWjYlGi7DUhPOkrLWKEZvzHHYlc9cl6TJ2Bxkq_XoGfNU_83gr9p4c0Cz69jraBvn-JvZRyItfkCcUEqTn-Gogt_lZBopvrt6iOdq7XjydUffGfuotNlR17E0nQFCYjm4.PqNsOuZxkSEqHP9x4OOYw9HVKmM0muNrpyGCS4XRsrU&dib_tag=se&hvadid=585412561198&hvdev=c&hvlocphy=1009824&hvnetw=g&hvqmt=b&hvrand=4695191010161264142&hvtargid=kwd-11028486&hydadcr=22333_13333064&keywords=little+toys&qid=1712739323&sr=8-9"
         },
         {
@@ -33,6 +37,7 @@
             "name": "Grocery",
             "price" : "varies according to the type a customer chooses",
             "description": "we deal with groceries that originate from the grocery store",
+            "idnumber" : "42378758",
             "image": "https://www.jumia.co.ke/khaki-grocery-packing-paper-bags-generic-mpg254447.html"
         },
 
@@ -41,6 +46,7 @@
                 "name": "Diamond Necklace",
                 "price": 150000,
                 "description": "An exquisite diamond necklace featuring flawless diamonds set in 18k white gold.",
+                "idnumber" : "42378758",
                 "image": "https://vijayandsons.com/cdn/shop/products/IMG-20220416-WA0060.jpg?v=1650269748"
             
         }
