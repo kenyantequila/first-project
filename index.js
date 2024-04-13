@@ -1,6 +1,4 @@
-// Get all buttons with the class "change"
 const buttons = document.querySelectorAll('.change');
-// Add event listener to each button
 buttons.forEach(button => {
     button.addEventListener('click', function () {
 
@@ -26,6 +24,7 @@ function displayGood(good) {
             <p>${good.price}</p>
             <p>sales-person:${good.merchant}</p>
             <p>id-number:${good.idnumber}</p>
+            <button>buy</button> <button>order</button>
             
         `;
     document.getElementById('myshop').appendChild(listItem);
@@ -43,21 +42,20 @@ function initialize() {
 }
 
 initialize();
-
-
-
 document.querySelectorAll('.buttons button').forEach(button => {
     button.addEventListener('click', function () {
-        // Your event handling code here
-        if (button.innerText == "services") {
-            alert("We offer a wide range of services to our customers.We tend to provide our customers with special services unlike  the others ,here we dont judje either poor or rich!");
-        } else if (button.innerText == "payment methods") {
-            alert("Here at Dubai shopping we have decided not to be specific with the payment method, we letb our customers choose what they like ,either using cash,pay using their phones or even cards !");
-        } else if (button.innerText == "transparency") {
-            alert
-        } else if (button.innerText == "discipline") {
-            alert("We offer a wide range of payment methods to our customers!");
-        }
 
+        if (button.innerText === "services") {
+            alert("We offer a wide range of services to our customers. We tend to provide our customers with special services unlike others. Here we don't judge either poor or rich!");
+        } else if (button.innerText === "payment method") {
+            alert("Here at Dubai shopping, we have decided not to be specific with the payment method. We let our customers choose what they like, either using cash, paying using their phones, or even cards!");
+        } else if (button.innerText === "transparency") {
+            alert("Transparency is one of our core values. We believe in providing clear and honest information to our customers.");
+        } else if (button.innerText === "discipline") {
+            alert("We maintain discipline in our operations to ensure smooth and efficient services to our customers.We also have a policy to ensure that some of unserious poeple ordering items online jokingly are also not forgot,we punish them by fining them acccording to the goods they offer");
+        } else if (button.innerText === "buy") {
+            alert("Bought");
+        }
     });
 });
+
