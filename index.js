@@ -26,7 +26,7 @@ function displayGood(good) {
             <p>id-number:${good.idnumber}</p>
             
         `;
-    document.getElementById('myshop').appendChild(listItem);
+    document.getElementById('myshop').appendChild(listItem);pp
 }
 
 function fetchGoods() {
