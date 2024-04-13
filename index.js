@@ -9,8 +9,10 @@ buttons.forEach(button => {
             alert("dont miss the chance");
         } else if (button.innerText === "Make order") {
             alert("Place your order now to enjoy fast and reliable service!");
+            alert("You can make your order through our new website or you can also contact us using the contact form");
         } else if (button.innerText === "Deliveries") {
             alert("We offer free shipping on all orders within the country!");
+            alert("We deliver to our customers doorstep without having to choose");
         }
     });
 });
@@ -26,7 +28,7 @@ function displayGood(good) {
             <p>id-number:${good.idnumber}</p>
             
         `;
-    document.getElementById('myshop').appendChild(listItem);pp
+    document.getElementById('myshop').appendChild(listItem);
 }
 
 function fetchGoods() {
