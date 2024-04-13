@@ -24,7 +24,7 @@ function displayGood(good) {
             <p>${good.price}</p>
             <p>sales-person:${good.merchant}</p>
             <p>id-number:${good.idnumber}</p>
-            <button>buy</button> <button>order</button>
+            <button id="buy" click="bought(event)">buy</button> <button>order</button>
             
         `;
     document.getElementById('myshop').appendChild(listItem);
@@ -52,9 +52,7 @@ document.querySelectorAll('.buttons button').forEach(button => {
         } else if (button.innerText === "transparency") {
             alert("Transparency is one of our core values. We believe in providing clear and honest information to our customers.");
         } else if (button.innerText === "discipline") {
-            alert("We maintain discipline in our operations to ensure smooth and efficient services to our customers.We also have a policy to ensure that some of unserious poeple ordering items online jokingly are also not forgot,we punish them by fining them acccording to the goods they offer");
-        } else if (button.innerText === "buy") {
-            alert("Bought");
+            alert("We maintain discipline in our operations to ensure smooth and efficient services to our customers.We also have a policy to ensure that some of unserious poeple ordering items online jokingly are also not forgot,we punish them by fining them acccording to the goods they order");
         }
     });
 });
