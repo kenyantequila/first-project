@@ -44,3 +44,11 @@ body{
 #myshop li{
     color: white;
 }
+.buy-button{
+    background-color: #c18f1b;
+    color: greenyellow;
+}
+.order-button{
+    color: greenyellow;
+    background-color: #c18f1b;
+}
